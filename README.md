@@ -5,3 +5,4 @@ Framework? VS Code or vi for actual code. PlatformI/O for MCUs, C/C++ for server
 
 You can't spell evil without vi, and the goal is to hack ALL the things.
 
+https://esphome.io/
